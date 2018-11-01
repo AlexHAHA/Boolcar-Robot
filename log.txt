@@ -1,0 +1,710 @@
+
+
+------------------------
+Wed Feb  7 18:21:44 2018: system begin
+Wed Feb  7 18:21:44 2018: get groud:0
+Wed Feb  7 18:21:45 2018: wait for:0.5s
+Wed Feb  7 18:21:45 2018: get groud:0
+Wed Feb  7 18:21:45 2018: wait for:0.5s
+Wed Feb  7 18:21:45 2018: get groud:0
+Wed Feb  7 18:21:46 2018: wait for:0.5s
+Wed Feb  7 18:21:46 2018: get groud:0
+Wed Feb  7 18:21:46 2018: wait for:0.5s
+Wed Feb  7 18:21:46 2018: get groud:0
+Wed Feb  7 18:21:47 2018: wait for:0.5s
+Wed Feb  7 18:21:47 2018: get groud:0
+Wed Feb  7 18:21:47 2018: wait for:0.5s
+Wed Feb  7 18:21:47 2018: get groud:0
+Wed Feb  7 18:21:48 2018: wait for:0.5s
+Wed Feb  7 18:21:48 2018: get groud:0
+Wed Feb  7 18:21:49 2018: wait for:0.5s
+Wed Feb  7 18:21:49 2018: get groud:0
+Wed Feb  7 18:21:49 2018: wait for:0.5s
+Wed Feb  7 18:21:49 2018: get groud:1
+Wed Feb  7 18:21:49 2018: get groud:1
+Wed Feb  7 18:21:50 2018: wait for:0.5s
+Wed Feb  7 18:21:50 2018: get groud:0
+Wed Feb  7 18:21:50 2018: wait for:0.5s
+Wed Feb  7 18:21:50 2018: get groud:0
+Wed Feb  7 18:21:51 2018: wait for:0.5s
+Wed Feb  7 18:21:51 2018: get groud:0
+Wed Feb  7 18:21:51 2018: wait for:0.5s
+Wed Feb  7 18:21:51 2018: get groud:0
+Wed Feb  7 18:21:52 2018: wait for:0.5s
+Wed Feb  7 18:21:52 2018: get groud:0
+Wed Feb  7 18:21:52 2018: wait for:0.5s
+Wed Feb  7 18:21:52 2018: get groud:2
+Wed Feb  7 18:21:52 2018: go ahead
+Wed Feb  7 18:21:55 2018: wait for:3s
+Wed Feb  7 18:21:55 2018: go back
+Wed Feb  7 18:21:58 2018: wait for:3s
+Wed Feb  7 18:21:58 2018: left
+Wed Feb  7 18:22:01 2018: wait for:3s
+Wed Feb  7 18:22:01 2018: right
+Wed Feb  7 18:22:04 2018: wait for:3s
+Wed Feb  7 18:22:04 2018: stop
+Wed Feb  7 18:22:04 2018: get distance:141.593cm
+Wed Feb  7 18:22:05 2018: wait for:0.5s
+Wed Feb  7 18:22:05 2018: get distance:142.11999999999998cm
+Wed Feb  7 18:22:05 2018: wait for:0.5s
+Wed Feb  7 18:22:05 2018: get distance:141.08300000000003cm
+Wed Feb  7 18:22:06 2018: wait for:0.5s
+Wed Feb  7 18:22:06 2018: get distance:140.743cm
+Wed Feb  7 18:22:07 2018: wait for:0.5s
+Wed Feb  7 18:22:07 2018: get distance:141.168cm
+Wed Feb  7 18:22:07 2018: wait for:0.5s
+Wed Feb  7 18:22:07 2018: get distance:140.42cm
+Wed Feb  7 18:22:08 2018: wait for:0.5s
+Wed Feb  7 18:22:08 2018: get distance:142.595999999998cm
+Wed Feb  7 18:22:08 2018: wait for:0.5s
+Wed Feb  7 18:22:08 2018: get distance:138.618cm
+Wed Feb  7 18:22:09 2018: wait for:0.5s
+Wed Feb  7 18:22:09 2018: get distance:139.723cm
+Wed Feb  7 18:22:09 2018: wait for:0.5s
+Wed Feb  7 18:22:09 2018: get distance:139.672cm
+Wed Feb  7 18:22:10 2018: wait for:0.5s
+Wed Feb  7 18:22:11 2018: rotate bottom steering to 10°
+Wed Feb  7 18:22:11 2018: wait for:0.5s
+Wed Feb  7 18:22:12 2018: rotate bottom steering to 170°
+Wed Feb  7 18:22:13 2018: wait for:0.5s
+Wed Feb  7 18:22:14 2018: rotate bottom steering to 90°
+Wed Feb  7 18:22:14 2018: wait for:0.5s
+Wed Feb  7 18:22:15 2018: rotate above steering to 10°
+Wed Feb  7 18:22:16 2018: wait for:0.5s
+Wed Feb  7 18:22:17 2018: rotate above steering to 170°
+Wed Feb  7 18:22:17 2018: wait for:0.5s
+Wed Feb  7 18:22:18 2018: rotate above steering to 90°
+Wed Feb  7 18:22:19 2018: stop
+Wed Feb  7 18:22:19 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:04:53 2018: system begin
+Wed Feb  7 19:04:54 2018: rotate bottom steering to 170°
+Wed Feb  7 19:04:54 2018: wait for:0.5s
+Wed Feb  7 19:04:55 2018: rotate bottom steering to 10°
+Wed Feb  7 19:04:56 2018: wait for:0.5s
+Wed Feb  7 19:04:57 2018: rotate bottom steering to 90°
+Wed Feb  7 19:04:57 2018: stop
+Wed Feb  7 19:04:57 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:05:10 2018: system begin
+Wed Feb  7 19:05:11 2018: rotate bottom steering to 170°
+Wed Feb  7 19:05:11 2018: wait for:0.5s
+Wed Feb  7 19:05:12 2018: rotate bottom steering to 10°
+Wed Feb  7 19:05:13 2018: wait for:0.5s
+Wed Feb  7 19:05:14 2018: rotate bottom steering to 90°
+Wed Feb  7 19:05:14 2018: stop
+Wed Feb  7 19:05:14 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:05:31 2018: system begin
+Wed Feb  7 19:05:32 2018: rotate bottom steering to 170°
+Wed Feb  7 19:05:33 2018: wait for:0.5s
+Wed Feb  7 19:05:34 2018: rotate bottom steering to 10°
+Wed Feb  7 19:05:34 2018: wait for:0.5s
+Wed Feb  7 19:05:35 2018: rotate bottom steering to 90°
+Wed Feb  7 19:05:35 2018: stop
+Wed Feb  7 19:05:35 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:05:50 2018: system begin
+Wed Feb  7 19:05:51 2018: rotate bottom steering to 170°
+Wed Feb  7 19:05:51 2018: wait for:0.5s
+Wed Feb  7 19:05:52 2018: rotate bottom steering to 10°
+Wed Feb  7 19:05:53 2018: wait for:0.5s
+Wed Feb  7 19:05:54 2018: rotate bottom steering to 90°
+Wed Feb  7 19:05:54 2018: stop
+Wed Feb  7 19:05:54 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:06:20 2018: system begin
+Wed Feb  7 19:06:21 2018: rotate bottom steering to 170°
+Wed Feb  7 19:06:22 2018: wait for:0.5s
+Wed Feb  7 19:06:23 2018: rotate bottom steering to 10°
+Wed Feb  7 19:06:23 2018: wait for:0.5s
+Wed Feb  7 19:06:24 2018: rotate bottom steering to 90°
+Wed Feb  7 19:06:24 2018: stop
+Wed Feb  7 19:06:24 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:06:40 2018: system begin
+Wed Feb  7 19:06:41 2018: rotate bottom steering to 170°
+Wed Feb  7 19:06:42 2018: wait for:0.5s
+Wed Feb  7 19:06:43 2018: rotate bottom steering to 10°
+Wed Feb  7 19:06:43 2018: wait for:0.5s
+Wed Feb  7 19:06:44 2018: rotate bottom steering to 90°
+Wed Feb  7 19:06:44 2018: stop
+Wed Feb  7 19:06:44 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:07:23 2018: system begin
+Wed Feb  7 19:07:24 2018: rotate bottom steering to 170°
+Wed Feb  7 19:07:26 2018: wait for:2s
+Wed Feb  7 19:07:27 2018: rotate bottom steering to 10°
+Wed Feb  7 19:07:29 2018: wait for:2s
+Wed Feb  7 19:07:30 2018: rotate bottom steering to 90°
+Wed Feb  7 19:07:30 2018: stop
+Wed Feb  7 19:07:30 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:07:42 2018: system begin
+Wed Feb  7 19:07:43 2018: rotate bottom steering to 170°
+Wed Feb  7 19:07:45 2018: wait for:2s
+Wed Feb  7 19:07:46 2018: rotate bottom steering to 10°
+Wed Feb  7 19:07:48 2018: wait for:2s
+Wed Feb  7 19:07:49 2018: rotate bottom steering to 90°
+Wed Feb  7 19:07:49 2018: stop
+Wed Feb  7 19:07:49 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:07:55 2018: system begin
+Wed Feb  7 19:07:56 2018: rotate bottom steering to 170°
+Wed Feb  7 19:07:58 2018: wait for:2s
+Wed Feb  7 19:07:59 2018: rotate bottom steering to 10°
+Wed Feb  7 19:08:01 2018: wait for:2s
+Wed Feb  7 19:08:02 2018: rotate bottom steering to 90°
+Wed Feb  7 19:08:02 2018: stop
+Wed Feb  7 19:08:02 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:08:23 2018: system begin
+Wed Feb  7 19:08:24 2018: rotate bottom steering to 170°
+Wed Feb  7 19:08:26 2018: wait for:2s
+Wed Feb  7 19:08:27 2018: rotate bottom steering to 10°
+Wed Feb  7 19:08:29 2018: wait for:2s
+Wed Feb  7 19:08:30 2018: rotate bottom steering to 90°
+Wed Feb  7 19:08:30 2018: stop
+Wed Feb  7 19:08:30 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:24:54 2018: system begin
+Wed Feb  7 19:24:54 2018: begin connect
+
+
+------------------------
+Wed Feb  7 19:28:33 2018: system begin
+Wed Feb  7 19:28:33 2018: begin connect
+
+
+------------------------
+Wed Feb  7 19:43:29 2018: system begin
+Wed Feb  7 19:43:29 2018: begin connect
+Wed Feb  7 19:44:12 2018: stop
+Wed Feb  7 19:44:12 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:45:39 2018: system begin
+Wed Feb  7 19:45:39 2018: begin connect
+
+
+------------------------
+Wed Feb  7 19:46:11 2018: system begin
+Wed Feb  7 19:46:11 2018: begin connect
+
+
+------------------------
+Wed Feb  7 19:46:20 2018: system begin
+Wed Feb  7 19:46:20 2018: begin connect
+
+
+------------------------
+Wed Feb  7 19:46:47 2018: system begin
+Wed Feb  7 19:46:47 2018: stop
+Wed Feb  7 19:46:47 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:49:21 2018: system begin
+Wed Feb  7 19:49:21 2018: begin connect
+Wed Feb  7 19:49:23 2018: stop
+Wed Feb  7 19:49:23 2018: stop
+Wed Feb  7 19:49:23 2018: stop
+Wed Feb  7 19:49:23 2018: stop
+Wed Feb  7 19:49:24 2018: stop
+Wed Feb  7 19:49:24 2018: stop
+Wed Feb  7 19:49:24 2018: stop
+Wed Feb  7 19:49:24 2018: stop
+Wed Feb  7 19:49:24 2018: stop
+Wed Feb  7 19:49:24 2018: stop
+Wed Feb  7 19:49:25 2018: stop
+Wed Feb  7 19:49:25 2018: stop
+Wed Feb  7 19:49:25 2018: stop
+Wed Feb  7 19:49:25 2018: stop
+Wed Feb  7 19:49:25 2018: stop
+Wed Feb  7 19:49:25 2018: stop
+Wed Feb  7 19:49:26 2018: stop
+Wed Feb  7 19:49:26 2018: stop
+Wed Feb  7 19:49:26 2018: stop
+Wed Feb  7 19:49:26 2018: stop
+Wed Feb  7 19:49:26 2018: stop
+Wed Feb  7 19:49:26 2018: stop
+Wed Feb  7 19:49:26 2018: stop
+Wed Feb  7 19:49:27 2018: stop
+Wed Feb  7 19:49:27 2018: stop
+Wed Feb  7 19:49:27 2018: stop
+Wed Feb  7 19:49:27 2018: stop
+Wed Feb  7 19:49:27 2018: stop
+Wed Feb  7 19:49:28 2018: stop
+Wed Feb  7 19:49:28 2018: stop
+Wed Feb  7 19:49:28 2018: stop
+Wed Feb  7 19:49:28 2018: stop
+Wed Feb  7 19:49:28 2018: stop
+Wed Feb  7 19:49:28 2018: stop
+Wed Feb  7 19:49:28 2018: stop
+Wed Feb  7 19:49:29 2018: stop
+Wed Feb  7 19:49:29 2018: stop
+Wed Feb  7 19:49:29 2018: go ahead
+Wed Feb  7 19:49:29 2018: go ahead
+Wed Feb  7 19:49:29 2018: stop
+Wed Feb  7 19:49:29 2018: stop
+Wed Feb  7 19:49:30 2018: stop
+Wed Feb  7 19:49:30 2018: stop
+Wed Feb  7 19:49:30 2018: stop
+Wed Feb  7 19:49:30 2018: stop
+Wed Feb  7 19:49:30 2018: stop
+Wed Feb  7 19:49:30 2018: stop
+Wed Feb  7 19:49:31 2018: stop
+Wed Feb  7 19:49:32 2018: rotate above steering to 10°
+Wed Feb  7 19:49:32 2018: stop
+Wed Feb  7 19:49:32 2018: stop
+Wed Feb  7 19:49:32 2018: stop
+Wed Feb  7 19:49:32 2018: stop
+Wed Feb  7 19:49:33 2018: stop
+Wed Feb  7 19:49:33 2018: stop
+Wed Feb  7 19:49:33 2018: stop
+Wed Feb  7 19:49:33 2018: stop
+Wed Feb  7 19:49:33 2018: stop
+Wed Feb  7 19:49:33 2018: stop
+Wed Feb  7 19:49:34 2018: stop
+Wed Feb  7 19:49:34 2018: stop
+Wed Feb  7 19:49:34 2018: stop
+Wed Feb  7 19:49:34 2018: stop
+Wed Feb  7 19:49:34 2018: stop
+Wed Feb  7 19:49:34 2018: stop
+Wed Feb  7 19:49:34 2018: stop
+Wed Feb  7 19:49:35 2018: stop
+Wed Feb  7 19:49:35 2018: stop
+Wed Feb  7 19:49:35 2018: stop
+Wed Feb  7 19:49:35 2018: stop
+Wed Feb  7 19:49:35 2018: stop
+Wed Feb  7 19:49:36 2018: stop
+Wed Feb  7 19:49:36 2018: stop
+Wed Feb  7 19:49:36 2018: stop
+Wed Feb  7 19:49:36 2018: stop
+Wed Feb  7 19:49:36 2018: stop
+Wed Feb  7 19:49:36 2018: stop
+Wed Feb  7 19:49:37 2018: stop
+Wed Feb  7 19:49:37 2018: stop
+Wed Feb  7 19:49:37 2018: stop
+Wed Feb  7 19:49:37 2018: stop
+Wed Feb  7 19:49:37 2018: stop
+Wed Feb  7 19:49:37 2018: stop
+Wed Feb  7 19:49:38 2018: stop
+Wed Feb  7 19:49:38 2018: stop
+Wed Feb  7 19:49:38 2018: stop
+Wed Feb  7 19:49:38 2018: stop
+Wed Feb  7 19:49:38 2018: stop
+Wed Feb  7 19:49:38 2018: stop
+Wed Feb  7 19:49:39 2018: stop
+Wed Feb  7 19:49:39 2018: stop
+Wed Feb  7 19:49:39 2018: stop
+Wed Feb  7 19:49:39 2018: stop
+Wed Feb  7 19:49:39 2018: stop
+Wed Feb  7 19:49:39 2018: stop
+Wed Feb  7 19:49:39 2018: stop
+Wed Feb  7 19:49:40 2018: stop
+Wed Feb  7 19:49:40 2018: stop
+Wed Feb  7 19:49:40 2018: stop
+Wed Feb  7 19:49:40 2018: stop
+Wed Feb  7 19:49:40 2018: stop
+Wed Feb  7 19:49:40 2018: stop
+Wed Feb  7 19:49:41 2018: stop
+Wed Feb  7 19:49:41 2018: stop
+Wed Feb  7 19:49:41 2018: stop
+Wed Feb  7 19:49:41 2018: stop
+Wed Feb  7 19:49:41 2018: stop
+Wed Feb  7 19:49:42 2018: stop
+Wed Feb  7 19:49:42 2018: stop
+Wed Feb  7 19:49:42 2018: stop
+Wed Feb  7 19:49:42 2018: stop
+Wed Feb  7 19:49:42 2018: stop
+Wed Feb  7 19:49:42 2018: stop
+Wed Feb  7 19:49:43 2018: stop
+Wed Feb  7 19:49:43 2018: stop
+Wed Feb  7 19:49:43 2018: stop
+Wed Feb  7 19:49:43 2018: stop
+Wed Feb  7 19:49:43 2018: stop
+Wed Feb  7 19:49:43 2018: stop
+Wed Feb  7 19:49:44 2018: stop
+Wed Feb  7 19:49:44 2018: stop
+Wed Feb  7 19:49:44 2018: stop
+Wed Feb  7 19:49:44 2018: stop
+Wed Feb  7 19:49:44 2018: stop
+Wed Feb  7 19:49:44 2018: stop
+Wed Feb  7 19:49:45 2018: stop
+Wed Feb  7 19:49:45 2018: stop
+Wed Feb  7 19:49:45 2018: stop
+Wed Feb  7 19:49:45 2018: stop
+Wed Feb  7 19:49:45 2018: stop
+Wed Feb  7 19:49:45 2018: stop
+Wed Feb  7 19:49:46 2018: stop
+Wed Feb  7 19:49:46 2018: stop
+Wed Feb  7 19:49:46 2018: stop
+Wed Feb  7 19:49:46 2018: stop
+Wed Feb  7 19:49:46 2018: stop
+Wed Feb  7 19:49:46 2018: stop
+Wed Feb  7 19:49:46 2018: stop
+Wed Feb  7 19:49:47 2018: stop
+Wed Feb  7 19:49:47 2018: stop
+Wed Feb  7 19:49:47 2018: stop
+Wed Feb  7 19:49:47 2018: stop
+Wed Feb  7 19:49:47 2018: stop
+Wed Feb  7 19:49:47 2018: stop
+Wed Feb  7 19:49:48 2018: stop
+Wed Feb  7 19:49:48 2018: stop
+Wed Feb  7 19:49:48 2018: stop
+Wed Feb  7 19:49:48 2018: stop
+Wed Feb  7 19:49:48 2018: stop
+Wed Feb  7 19:49:48 2018: stop
+Wed Feb  7 19:49:49 2018: stop
+Wed Feb  7 19:49:49 2018: stop
+Wed Feb  7 19:49:49 2018: stop
+Wed Feb  7 19:49:49 2018: stop
+Wed Feb  7 19:49:49 2018: stop
+Wed Feb  7 19:49:49 2018: stop
+Wed Feb  7 19:49:49 2018: stop
+Wed Feb  7 19:49:50 2018: stop
+Wed Feb  7 19:49:50 2018: stop
+Wed Feb  7 19:49:50 2018: stop
+Wed Feb  7 19:49:50 2018: stop
+Wed Feb  7 19:49:50 2018: stop
+Wed Feb  7 19:49:50 2018: stop
+Wed Feb  7 19:49:51 2018: stop
+Wed Feb  7 19:49:51 2018: stop
+Wed Feb  7 19:49:51 2018: stop
+Wed Feb  7 19:49:51 2018: stop
+Wed Feb  7 19:49:51 2018: stop
+Wed Feb  7 19:49:51 2018: stop
+Wed Feb  7 19:49:52 2018: stop
+Wed Feb  7 19:49:52 2018: stop
+Wed Feb  7 19:49:52 2018: stop
+Wed Feb  7 19:49:52 2018: stop
+Wed Feb  7 19:49:52 2018: stop
+Wed Feb  7 19:49:52 2018: stop
+Wed Feb  7 19:49:52 2018: system normally close
+Wed Feb  7 19:49:53 2018: connect over
+Wed Feb  7 19:49:53 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:52:14 2018: system begin
+Wed Feb  7 19:52:14 2018: begin connect
+Wed Feb  7 19:52:17 2018: stop
+Wed Feb  7 19:52:18 2018: stop
+Wed Feb  7 19:52:18 2018: stop
+Wed Feb  7 19:52:18 2018: stop
+Wed Feb  7 19:52:18 2018: stop
+Wed Feb  7 19:52:18 2018: stop
+Wed Feb  7 19:52:18 2018: stop
+Wed Feb  7 19:52:19 2018: stop
+Wed Feb  7 19:52:19 2018: stop
+Wed Feb  7 19:52:20 2018: rotate above steering to 10°
+Wed Feb  7 19:52:20 2018: stop
+Wed Feb  7 19:52:20 2018: stop
+Wed Feb  7 19:52:20 2018: stop
+Wed Feb  7 19:52:20 2018: stop
+Wed Feb  7 19:52:21 2018: stop
+Wed Feb  7 19:52:21 2018: stop
+Wed Feb  7 19:52:21 2018: stop
+Wed Feb  7 19:52:21 2018: stop
+Wed Feb  7 19:52:21 2018: stop
+Wed Feb  7 19:52:21 2018: stop
+Wed Feb  7 19:52:22 2018: stop
+Wed Feb  7 19:52:22 2018: stop
+Wed Feb  7 19:52:22 2018: stop
+Wed Feb  7 19:52:22 2018: stop
+Wed Feb  7 19:52:22 2018: stop
+Wed Feb  7 19:52:22 2018: stop
+Wed Feb  7 19:52:23 2018: stop
+Wed Feb  7 19:52:23 2018: stop
+Wed Feb  7 19:52:23 2018: stop
+Wed Feb  7 19:52:23 2018: stop
+Wed Feb  7 19:52:23 2018: stop
+Wed Feb  7 19:52:23 2018: stop
+Wed Feb  7 19:52:24 2018: stop
+Wed Feb  7 19:52:24 2018: stop
+Wed Feb  7 19:52:24 2018: stop
+Wed Feb  7 19:52:24 2018: stop
+Wed Feb  7 19:52:24 2018: stop
+Wed Feb  7 19:52:24 2018: stop
+Wed Feb  7 19:52:24 2018: stop
+Wed Feb  7 19:52:25 2018: stop
+Wed Feb  7 19:52:25 2018: stop
+Wed Feb  7 19:52:25 2018: stop
+Wed Feb  7 19:52:25 2018: stop
+Wed Feb  7 19:52:25 2018: stop
+Wed Feb  7 19:52:25 2018: stop
+Wed Feb  7 19:52:26 2018: stop
+Wed Feb  7 19:52:26 2018: stop
+Wed Feb  7 19:52:26 2018: stop
+Wed Feb  7 19:52:26 2018: stop
+Wed Feb  7 19:52:26 2018: stop
+Wed Feb  7 19:52:26 2018: stop
+Wed Feb  7 19:52:27 2018: stop
+Wed Feb  7 19:52:27 2018: stop
+Wed Feb  7 19:52:27 2018: stop
+Wed Feb  7 19:52:27 2018: stop
+Wed Feb  7 19:52:27 2018: stop
+Wed Feb  7 19:52:27 2018: stop
+Wed Feb  7 19:52:28 2018: stop
+Wed Feb  7 19:52:28 2018: stop
+Wed Feb  7 19:52:28 2018: stop
+Wed Feb  7 19:52:28 2018: stop
+Wed Feb  7 19:52:28 2018: stop
+Wed Feb  7 19:52:28 2018: stop
+Wed Feb  7 19:52:29 2018: stop
+Wed Feb  7 19:52:29 2018: stop
+Wed Feb  7 19:52:29 2018: stop
+Wed Feb  7 19:52:29 2018: stop
+Wed Feb  7 19:52:29 2018: stop
+Wed Feb  7 19:52:29 2018: stop
+Wed Feb  7 19:52:30 2018: stop
+Wed Feb  7 19:52:30 2018: stop
+Wed Feb  7 19:52:30 2018: stop
+Wed Feb  7 19:52:30 2018: stop
+Wed Feb  7 19:52:30 2018: stop
+Wed Feb  7 19:52:30 2018: stop
+Wed Feb  7 19:52:31 2018: stop
+Wed Feb  7 19:52:31 2018: stop
+Wed Feb  7 19:52:31 2018: stop
+Wed Feb  7 19:52:31 2018: stop
+Wed Feb  7 19:52:31 2018: stop
+Wed Feb  7 19:52:31 2018: stop
+Wed Feb  7 19:52:31 2018: stop
+Wed Feb  7 19:52:32 2018: stop
+Wed Feb  7 19:52:32 2018: stop
+Wed Feb  7 19:52:32 2018: stop
+Wed Feb  7 19:52:32 2018: stop
+Wed Feb  7 19:52:32 2018: stop
+Wed Feb  7 19:52:33 2018: stop
+Wed Feb  7 19:52:33 2018: stop
+Wed Feb  7 19:52:33 2018: stop
+Wed Feb  7 19:52:33 2018: stop
+Wed Feb  7 19:52:33 2018: stop
+Wed Feb  7 19:52:33 2018: stop
+Wed Feb  7 19:52:34 2018: stop
+Wed Feb  7 19:52:34 2018: stop
+Wed Feb  7 19:52:34 2018: stop
+Wed Feb  7 19:52:34 2018: stop
+Wed Feb  7 19:52:34 2018: stop
+Wed Feb  7 19:52:34 2018: stop
+Wed Feb  7 19:52:35 2018: stop
+Wed Feb  7 19:52:35 2018: stop
+Wed Feb  7 19:52:35 2018: stop
+Wed Feb  7 19:52:35 2018: stop
+Wed Feb  7 19:52:35 2018: stop
+Wed Feb  7 19:52:35 2018: stop
+Wed Feb  7 19:52:36 2018: stop
+Wed Feb  7 19:52:36 2018: stop
+Wed Feb  7 19:52:36 2018: stop
+Wed Feb  7 19:52:36 2018: stop
+Wed Feb  7 19:52:36 2018: stop
+Wed Feb  7 19:52:36 2018: stop
+Wed Feb  7 19:52:36 2018: stop
+Wed Feb  7 19:52:37 2018: stop
+Wed Feb  7 19:52:37 2018: stop
+Wed Feb  7 19:52:37 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:55:55 2018: system begin
+Wed Feb  7 19:55:55 2018: begin connect
+
+
+------------------------
+Wed Feb  7 19:56:36 2018: system begin
+Wed Feb  7 19:56:36 2018: stop
+Wed Feb  7 19:56:36 2018: system normally close
+
+
+------------------------
+Wed Feb  7 19:57:33 2018: system begin
+Wed Feb  7 19:57:33 2018: begin connect
+Wed Feb  7 19:57:36 2018: stop
+Wed Feb  7 19:57:37 2018: stop
+Wed Feb  7 19:57:37 2018: stop
+Wed Feb  7 19:57:37 2018: stop
+Wed Feb  7 19:57:37 2018: stop
+Wed Feb  7 19:57:37 2018: stop
+Wed Feb  7 19:57:37 2018: stop
+Wed Feb  7 19:57:38 2018: stop
+Wed Feb  7 19:57:38 2018: stop
+Wed Feb  7 19:57:38 2018: stop
+Wed Feb  7 19:57:38 2018: stop
+Wed Feb  7 19:57:38 2018: stop
+Wed Feb  7 19:57:38 2018: stop
+Wed Feb  7 19:57:39 2018: stop
+Wed Feb  7 19:57:39 2018: stop
+Wed Feb  7 19:57:39 2018: stop
+Wed Feb  7 19:57:39 2018: stop
+Wed Feb  7 19:57:39 2018: stop
+Wed Feb  7 19:57:39 2018: stop
+Wed Feb  7 19:57:39 2018: stop
+Wed Feb  7 19:57:40 2018: stop
+Wed Feb  7 19:57:40 2018: stop
+Wed Feb  7 19:57:40 2018: stop
+Wed Feb  7 19:57:40 2018: stop
+Wed Feb  7 19:57:40 2018: stop
+Wed Feb  7 19:57:41 2018: stop
+Wed Feb  7 19:57:41 2018: stop
+Wed Feb  7 19:57:41 2018: stop
+Wed Feb  7 19:57:41 2018: stop
+Wed Feb  7 19:57:41 2018: stop
+Wed Feb  7 19:57:41 2018: stop
+Wed Feb  7 19:57:42 2018: stop
+Wed Feb  7 19:57:42 2018: stop
+Wed Feb  7 19:57:42 2018: stop
+Wed Feb  7 19:57:42 2018: stop
+Wed Feb  7 19:57:42 2018: stop
+Wed Feb  7 19:57:42 2018: stop
+Wed Feb  7 19:57:43 2018: rotate above steering to 170°
+Wed Feb  7 19:57:44 2018: stop
+Wed Feb  7 19:57:44 2018: stop
+Wed Feb  7 19:57:44 2018: stop
+Wed Feb  7 19:57:44 2018: stop
+Wed Feb  7 19:57:44 2018: stop
+Wed Feb  7 19:57:44 2018: stop
+Wed Feb  7 19:57:45 2018: stop
+Wed Feb  7 19:57:45 2018: stop
+Wed Feb  7 19:57:45 2018: stop
+Wed Feb  7 19:57:45 2018: stop
+Wed Feb  7 19:57:45 2018: stop
+Wed Feb  7 19:57:45 2018: stop
+Wed Feb  7 19:57:46 2018: stop
+Wed Feb  7 19:57:46 2018: stop
+Wed Feb  7 19:57:47 2018: rotate above steering to 10°
+Wed Feb  7 19:57:47 2018: stop
+Wed Feb  7 19:57:47 2018: stop
+Wed Feb  7 19:57:47 2018: stop
+Wed Feb  7 19:57:47 2018: stop
+Wed Feb  7 19:57:48 2018: stop
+Wed Feb  7 19:57:49 2018: rotate above steering to 170°
+Wed Feb  7 19:57:49 2018: stop
+Wed Feb  7 19:57:49 2018: stop
+Wed Feb  7 19:57:49 2018: stop
+Wed Feb  7 19:57:50 2018: rotate above steering to 10°
+Wed Feb  7 19:57:50 2018: stop
+Wed Feb  7 19:57:50 2018: stop
+Wed Feb  7 19:57:51 2018: stop
+Wed Feb  7 19:57:51 2018: stop
+Wed Feb  7 19:57:51 2018: stop
+Wed Feb  7 19:57:51 2018: stop
+Wed Feb  7 19:57:51 2018: stop
+Wed Feb  7 19:57:51 2018: stop
+Wed Feb  7 19:57:52 2018: rotate above steering to 170°
+Wed Feb  7 19:57:53 2018: stop
+Wed Feb  7 19:57:53 2018: stop
+Wed Feb  7 19:57:54 2018: rotate above steering to 10°
+Wed Feb  7 19:57:54 2018: stop
+Wed Feb  7 19:57:54 2018: stop
+Wed Feb  7 19:57:55 2018: rotate above steering to 170°
+Wed Feb  7 19:57:55 2018: stop
+Wed Feb  7 19:57:56 2018: rotate above steering to 10°
+Wed Feb  7 19:57:57 2018: stop
+Wed Feb  7 19:57:58 2018: rotate above steering to 170°
+Wed Feb  7 19:57:58 2018: stop
+Wed Feb  7 19:57:59 2018: rotate above steering to 10°
+Wed Feb  7 19:57:59 2018: stop
+Wed Feb  7 19:58:00 2018: rotate above steering to 170°
+Wed Feb  7 19:58:00 2018: stop
+Wed Feb  7 19:58:01 2018: rotate above steering to 10°
+Wed Feb  7 19:58:01 2018: stop
+Wed Feb  7 19:58:02 2018: rotate above steering to 170°
+Wed Feb  7 19:58:02 2018: stop
+Wed Feb  7 19:58:03 2018: rotate above steering to 10°
+Wed Feb  7 19:58:04 2018: stop
+Wed Feb  7 19:58:05 2018: rotate above steering to 170°
+Wed Feb  7 19:58:05 2018: stop
+Wed Feb  7 19:58:06 2018: rotate above steering to 10°
+Wed Feb  7 19:58:06 2018: stop
+Wed Feb  7 19:58:07 2018: rotate above steering to 170°
+Wed Feb  7 19:58:07 2018: stop
+Wed Feb  7 19:58:08 2018: rotate above steering to 10°
+Wed Feb  7 19:58:08 2018: stop
+Wed Feb  7 19:58:09 2018: rotate above steering to 170°
+Wed Feb  7 19:58:10 2018: stop
+Wed Feb  7 19:58:10 2018: stop
+Wed Feb  7 19:58:11 2018: rotate above steering to 10°
+Wed Feb  7 19:58:11 2018: stop
+Wed Feb  7 19:58:12 2018: rotate above steering to 170°
+Wed Feb  7 19:58:12 2018: stop
+Wed Feb  7 19:58:13 2018: rotate above steering to 10°
+Wed Feb  7 19:58:13 2018: stop
+Wed Feb  7 19:58:13 2018: stop
+Wed Feb  7 19:58:14 2018: stop
+Wed Feb  7 19:58:14 2018: stop
+Wed Feb  7 19:58:14 2018: stop
+Wed Feb  7 19:58:15 2018: rotate above steering to 170°
+Wed Feb  7 19:58:15 2018: stop
+Wed Feb  7 19:58:15 2018: stop
+Wed Feb  7 19:58:15 2018: stop
+Wed Feb  7 19:58:16 2018: stop
+Wed Feb  7 19:58:16 2018: stop
+Wed Feb  7 19:58:16 2018: stop
+Wed Feb  7 19:58:16 2018: stop
+Wed Feb  7 19:58:16 2018: stop
+Wed Feb  7 19:58:16 2018: stop
+Wed Feb  7 19:58:16 2018: stop
+Wed Feb  7 19:58:17 2018: stop
+Wed Feb  7 19:58:17 2018: stop
+Wed Feb  7 19:58:17 2018: stop
+Wed Feb  7 19:58:17 2018: stop
+Wed Feb  7 19:58:17 2018: stop
+Wed Feb  7 19:58:18 2018: rotate above steering to 10°
+Wed Feb  7 19:58:18 2018: stop
+Wed Feb  7 19:58:19 2018: stop
+Wed Feb  7 19:58:19 2018: stop
+Wed Feb  7 19:58:19 2018: stop
+Wed Feb  7 19:58:20 2018: rotate above steering to 170°
+Wed Feb  7 19:58:20 2018: stop
+Wed Feb  7 19:58:20 2018: stop
+Wed Feb  7 19:58:21 2018: stop
+Wed Feb  7 19:58:21 2018: stop
+Wed Feb  7 19:58:21 2018: stop
+Wed Feb  7 19:58:21 2018: stop
+Wed Feb  7 19:58:21 2018: stop
+Wed Feb  7 19:58:21 2018: stop
+Wed Feb  7 19:58:21 2018: stop
+Wed Feb  7 19:58:22 2018: stop
+Wed Feb  7 19:58:22 2018: stop
+Wed Feb  7 19:58:22 2018: stop
+Wed Feb  7 19:58:22 2018: stop
+Wed Feb  7 19:58:22 2018: stop
+Wed Feb  7 19:58:22 2018: stop
+Wed Feb  7 19:58:23 2018: stop
+Wed Feb  7 19:58:23 2018: stop
+Wed Feb  7 19:58:23 2018: stop
+Wed Feb  7 19:58:23 2018: stop
+Wed Feb  7 19:58:23 2018: stop
+Wed Feb  7 19:58:23 2018: stop
+Wed Feb  7 19:58:24 2018: stop
+Wed Feb  7 19:58:24 2018: stop
+Wed Feb  7 19:58:24 2018: stop
+Wed Feb  7 19:58:24 2018: stop
+Wed Feb  7 19:58:24 2018: stop
+Wed Feb  7 19:58:24 2018: system normally close
+Wed Feb  7 19:58:25 2018: connect over
+Wed Feb  7 19:58:25 2018: system normally close
